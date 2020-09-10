@@ -29,5 +29,5 @@ If you want to contribute, please go directly to the project you are interested 
 ## Report issues
 
 If you find any source code bug, please create a issue in the repository directly.
-For any other problems or security vulnerabilities, you can also contact us by [email](SOFAEnclaveSecurity@list.alibaba-inc.com).
+For any other problems or security vulnerabilities, you can also contact us by [email](mailto:SOFAEnclaveSecurity@list.alibaba-inc.com).
 
