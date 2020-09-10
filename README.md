@@ -10,7 +10,7 @@ As the name implies, KubeTEE is based on the docker containers, Kubernetes orche
 and other cloud-native technologies. Its goal is to help developers to implement TEE-based
 applications and deploy TEE services more easily and smoothly.
 
-![KubeTEE overview](https://github.com/SOFAEnclave/KubeTEE/blob/master/docs/kubetee.jpg)
+![KubeTEE overview](docs/kubetee.jpg)
 
 KubeTEE is currently mainly based on Intel (R) Software Guard Extensions (Intel (R) SGX).
 SGX is a CPU-based hardware security technology provided by Intel. It uses encrypted memory
@@ -29,5 +29,5 @@ If you want to contribute, please go directly to the project you are interested 
 ## Report issues
 
 If you find any source code bug, please create a issue in the repository directly.
-For any other problems or security vulnerabilities, you can also contact us by [email](SOFAEnclaveSecurity@list.alibaba-inc.com).
+For any other problems or security vulnerabilities, you can also contact us by [email](mailto:SOFAEnclaveSecurity@list.alibaba-inc.com).
 
